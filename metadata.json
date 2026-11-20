@@ -1,0 +1,8 @@
+{
+  "name": "PDF Creator Tools",
+  "description": "Aplikasi PDF Tools lengkap untuk menggabungkan, memisahkan, mengompres, mengonversi, mengedit, dan melindungi dokumen PDF secara aman di browser. Dibuat oleh Ridwan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
